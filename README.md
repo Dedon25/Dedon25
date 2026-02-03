@@ -11,9 +11,6 @@ Hey! 👋 I’m **Adon**, a Computer Science student who enjoys building things,
 ---
 
 ## 🌐 Connect With Me
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/H3gPqhVV)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@apex_o.92)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abtumaini@gmail.com)
 
 ---
