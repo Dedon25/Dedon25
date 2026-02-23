@@ -60,4 +60,6 @@ Hey! 👋 I’m **Adon**, a Computer Science student who enjoys building things,
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Dedon25&icon=5&color=6)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dedon25&color=blue" />
+</p>
